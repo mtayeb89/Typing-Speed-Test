@@ -1,6 +1,6 @@
 # 💻 Typing Speed Test Application
 
-## 📝 Description
+## Description
 A sophisticated Typing Speed Test application built with Python and Tkinter, designed to measure and improve typing skills. This interactive tool provides real-time feedback on typing speed (Words Per Minute) and accuracy.
 
 ## ✨ Features
